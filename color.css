@@ -1,0 +1,53 @@
+body{
+
+}
+
+.dclass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8rem;
+    margin-left: 10px ;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 1.2rem ;
+}
+
+
+
+
+.patti{
+    width: 100%;
+    border-radius: 1.0rem;
+    height: 100px;
+    background-color:aquamarine;
+    padding: 0.1rem;
+}
+.lefts{
+    position: absolute;
+    right: 20px;
+    top:60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.0rem;
+
+}
+.listr{
+    display: flex;
+    list-style: none;
+}
+.contactd{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    margin-left: 30px;
+}
+.imgst{
+    width: 100%;
+    border: black;
+
+}
+
+    
+}
+
+.listr{
+    display: flex;
+}
